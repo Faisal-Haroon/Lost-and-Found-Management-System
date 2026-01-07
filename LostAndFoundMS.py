@@ -1,8 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
-
+import getpass
 
 # dictionary for storing users & admin login details
 users = {
@@ -130,14 +129,14 @@ def register():
     if username in users:
         print("Username already exists!")
         return
-    password = input("Enter a password: ")
+    password = getpass.getpass("Enter password: ")
     users[username] = {"password": password, "role": "user"}
     print("User Added Successfully")
 
 def login():
     print("\n--- Login ---")
     username = input("Username: ")
-    password = input("Password: ")
+    password = getpass.getpass("Enter password: ")
     if username in users and users[username]["password"] == password:
         print(f"Login Successfull. Welcome {username}")
         return users[username]["role"]
