@@ -26,7 +26,7 @@ The system helps users and admin manage lost and found items easily through the 
 - **User**
 - **Admin**
 
-Each role has different permissions inside the system.
+Each role has different permissions inside  system.
 
 ## Technology Used
 - Python
