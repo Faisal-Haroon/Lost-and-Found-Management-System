@@ -2,7 +2,7 @@
 
 This is a **CLI based Lost and Found Management System** built using **Python**.  
 The system helps users and admin manage lost and found items easily through the terminal.
-................
+...
 ## Features
 
 ### User Features
