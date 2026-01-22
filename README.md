@@ -25,6 +25,7 @@ The system helps users and admin manage lost and found items easily through the 
 ## User Roles
 - **User**
 - **Admin**
+- 
 
 Each role has different permissions inside the  system.
 
