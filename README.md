@@ -39,7 +39,7 @@ Each role has different permissions inside the  system.
 git clone <repository-link>
 2. Go to project folder
 cd Lost-and-Found-Management-System
-3. Run the main file
+3. Now Run the main file
 python main.py
 
 ## Notes
