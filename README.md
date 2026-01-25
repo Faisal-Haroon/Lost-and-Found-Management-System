@@ -23,6 +23,7 @@ The system helps users and admin manage lost and found items easily through the 
 - Admin can **mark items as returned**
 
 ## User Roles
+-------------
 - **User**
 - **Admin**
 - 
