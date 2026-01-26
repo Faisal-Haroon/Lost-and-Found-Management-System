@@ -1,7 +1,7 @@
 # Lost and Found Management System (CLI – Python)
 
 This is a **CLI based Lost and Found Management System** built using **Python**.  
-The system helps users and admin manage lost and found items easily through the terminal.
+The system helps users and admin manage lost and found items easily through terminal.
 ...
 ## Features
 
