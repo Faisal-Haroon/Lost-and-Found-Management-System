@@ -33,7 +33,7 @@ Each role has different permissions inside the  system.
 ## Technology Used
 - Python
 - Command Line Interface (CLI)
-
+- ......
 ## How to Run the Project
 
 1. Clone the repository
