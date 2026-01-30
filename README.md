@@ -26,7 +26,6 @@ The system helps users and admin manage lost and found items easily through term
 -------------
 - **User**
 - **Admin**
-- 
 
 Each role has different permissions inside the  system.
 
@@ -50,4 +49,4 @@ python main.py
 
 ## Author
 **Faisal Haroon**  
-BS Software Engineering Student
+BS Software Engineering (Student)
