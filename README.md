@@ -49,4 +49,4 @@ python main.py
 
 ## Author
 **Faisal Haroon**  
-BS Software Engineering (Student)
+BS SE Student
