@@ -32,7 +32,7 @@ Each role has different permissions inside the  system.
 - Python
 - Command Line Interface (CLI)
 - ......
-## How to Run the Project
+## How to Run Project
 
 1. Clone the repository
 git clone <repository-link>
