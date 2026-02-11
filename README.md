@@ -31,7 +31,7 @@ Each role has different permissions inside the  system.
 ## Technology Used
 - Python
 - Command Line Interface (CLI)
-- ......
+  -------------
 ## How to Run Project
 
 1. Clone the repository
@@ -40,7 +40,7 @@ git clone <repository-link>
 cd Lost-and-Found-Management-System
 3. Now Run the main file
 python main.py
-
+-----------
 ## Notes
 - This is a **beginner level project**
 - Designed for learning purposes
